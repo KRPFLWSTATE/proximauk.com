@@ -36,7 +36,7 @@ import {
 import { Badge } from './ui/badge';
 import { Button } from './ui/button';
 import { ScrollArea } from './ui/scroll-area';
-import { toast } from 'sonner@2.0.3';
+import { toast } from 'sonner';
 
 // Mock Data for Zones
 const MOCK_ZONES = [
